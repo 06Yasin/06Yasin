@@ -14,6 +14,6 @@ I am a Software Engineering student passionate about developing reliable and sca
 **Languages & Frameworks**
 Python | Django | C | Java
 
-📫 Contact
-📧 Email: ilgiyasin6@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/yasin-ey%C3%BCp-ilgi-36aba0232/
+### 📫 Contact
+**📧 Email: ilgiyasin6@gmail.com
+**💼 LinkedIn: https://www.linkedin.com/in/yasin-ey%C3%BCp-ilgi-36aba0232/
